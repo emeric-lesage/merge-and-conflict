@@ -1,4 +1,5 @@
-# merge-and-conflict
+local
+
 ici
 quelques lignes
 de texte
